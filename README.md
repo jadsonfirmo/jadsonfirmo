@@ -7,7 +7,7 @@ I'm Computer Engineer and Full Stack Web Developer
 I completed my degree in Computer Engineering in 2018, and I have been learning and working in the area of WEB development since 2015. I worked in two startups where I was able to learn a lot and be sure of my passion for the area. But it's just the beginning! I hope to learn and further develop my skills.
 
 * 🌍  I'm based in Bahia, Brazil
-* 🖥️  See my portfolio at [GitHub Pages](http://jadsonfirmo.github.io/)
+* 🖥️  See my portfolio at [GitHub Pages](http://jadsonfirmo.github.io/site)
 * ✉️  You can contact me at [jadson.firmo@gmail.com](mailto:jadson.firmo@gmail.com)
 * 🚀  I'm currently working on [Autoglass Brasil](http://www.autoglassonline.com.br/)
 * 🧠  I'm learning Angular and C#
