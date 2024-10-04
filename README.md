@@ -21,6 +21,8 @@ I completed my degree in Computer Engineering in 2018, and I have been learning 
 <br>🚀 I'm currently working on [Autoglass Brasil](http://www.autoglassonline.com.br/)
 <br>✉️ You can contact me at [jadson.firmo@gmail.com](mailto:jadson.firmo@gmail.com)
 
+<br><br>😂 "There are 10 types of people in the world: those who understand binary and those who don't."
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jadson.firmo) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jadsonfirmo) 
 
@@ -37,6 +39,9 @@ I completed my degree in Computer Engineering in 2018, and I have been learning 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=jadsonfirmo&icon=0&color=0)](https://visitcount.itsvg.in)
+
+---
+💭 "Talent wins games, but teamwork wins championships." (Michael Jordan)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
