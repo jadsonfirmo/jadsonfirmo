@@ -21,7 +21,8 @@ Concluí minha graduação em Engenharia de Computação em 2018 e, desde 2015, 
 <br>⚡ Atualmente trabalhando com Vue JS, Angular, C# e Nest JS
 <br>🚀 Estou trabalhando atualmente na [Autoglass Brasil](http://www.autoglassonline.com.br/)
 <br>✉️ Você pode entrar em contato comigo em [jadson.firmo@gmail.com](mailto:jadson.firmo@gmail.com)
-<br> 😂 "Existem 10 tipos de pessoas no mundo: as que entendem binário e as que não entendem."
+
+<br><br>😂 "Existem 10 tipos de pessoas no mundo: as que entendem binário e as que não entendem."
 
 ## 🌐 Redes sociais:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jadson.firmo) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jadsonfirmo)
@@ -37,3 +38,15 @@ Concluí minha graduação em Engenharia de Computação em 2018 e, desde 2015, 
 ### 🔝 Repositórios com mais contribuições
 ![](https://github-contributor-stats.vercel.app/api?username=jadsonfirmo&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+---
+[![](https://visitcount.itsvg.in/api?id=jadsonfirmo&icon=0&color=0)](https://visitcount.itsvg.in)
+
+---
+💭 "O talento vence jogos, mas só o trabalho em equipe ganha campeonatos." (Michael Jordan)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<!---
+jadsonfirmo/jadsonfirmo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
