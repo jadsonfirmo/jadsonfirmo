@@ -5,7 +5,8 @@
 ---
 
 # Olá 👋 Meu nome é Jadson!
-========================
+
+---
 
 Sou Engenheiro de Computação e Desenvolvedor Web Full Stack
 -----------------------------------------------------------
@@ -20,7 +21,7 @@ Concluí minha graduação em Engenharia de Computação em 2018 e, desde 2015, 
 <br>⚡ Atualmente trabalhando com Vue JS, Angular, C# e Nest JS
 <br>🚀 Estou trabalhando atualmente na [Autoglass Brasil](http://www.autoglassonline.com.br/)
 <br>✉️ Você pode entrar em contato comigo em [jadson.firmo@gmail.com](mailto:jadson.firmo@gmail.com)
-<br> 😂 "Existem 10 tipos de pessoas no mundo. As que entendem binário e as que não entendem."
+<br> 😂 "Existem 10 tipos de pessoas no mundo: as que entendem binário e as que não entendem."
 
 ## 🌐 Redes sociais:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jadson.firmo) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jadsonfirmo)
